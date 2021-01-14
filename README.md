@@ -12,9 +12,6 @@
 
 5. Push the above changes to GitHub or GitLab.
 
-## Note
-
-Keep in mind that this homework is optional! However, you will gain a much greater understanding of ETL processes in Big Data using PySpark and using AWS's Relational Databases if you do complete it.
 
 ## Background
 
